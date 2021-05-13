@@ -1,0 +1,29 @@
+.whiteTextColor{
+    color: whitesmoke;
+}
+
+.blueTextColor{
+    color:#2471A3;
+}
+
+h1{
+    font-size: 6rem;
+}
+
+.vertical-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+
+  bigFont{
+      font: size 2rem;;
+  }
+
+a{
+    color: inherit;
+    text-decoration: none;
+}
+
